@@ -4,7 +4,7 @@ from multiplication import multiply
 from division import divide
 
 def main():
-    print("Simple Calculator Program")
+    print("Calculation")
     
     a = 13
     b = 28
